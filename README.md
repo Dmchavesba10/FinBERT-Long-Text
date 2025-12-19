@@ -10,6 +10,11 @@ Unlike standard chunking methods that average sentiment (diluting the signal), t
 * **Strongest Signal Strategy:** Instead of averaging scores (which returns "Neutral" for mixed documents), it identifies the chunk with the highest Positive or Negative confidence.
 * **GPU Acceleration:** Automatically uses NVIDIA CUDA if available.
 * **Production Ready:** Handles special tokens (`[CLS]`, `[SEP]`) correctly for every chunk.
+## Required Libraries
+
+* torch
+* transformers
+* numpy
 
 ## 📦 Installation
 
